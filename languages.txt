@@ -1,0 +1,12 @@
+John Nguyen
+
+What is your favorite programming language? Why?
+
+I'd say java is my favorite programming language currently because it's not as low level as a language like C and a little more 
+strict than python. We've also had to use java in all our data structure and algorithms classes here at VT.\, which has made me 
+comfortable with it.
+
+
+Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+
+It is.
